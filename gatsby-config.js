@@ -6,10 +6,6 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-
-
-
-
     `gatsby-plugin-sass`,
     `gatsby-plugin-svgr`,
     {
@@ -21,11 +17,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-
-
-
-
-
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
