@@ -1,5 +1,6 @@
 import React from "react"
 import LayoutBasic from "../layouts/LayoutBasic"
+
 export default function proyects() {
   return (
     <LayoutBasic>
